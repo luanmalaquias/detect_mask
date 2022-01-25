@@ -1,7 +1,6 @@
 from tkinter import IntVar, Tk, Radiobutton, Button, Label
 from tkinter.filedialog import askopenfilename
 from analysisimg import analysisImg, analysisWebCam
-import time
 
 
 main = Tk()
